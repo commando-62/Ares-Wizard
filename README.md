@@ -220,4 +220,4 @@ Ares Wizard is the full free version with all features and updates included. The
 Elevate your Kodi experience today! Download Ares Wizard for free and unlock the full potential of your media center.
 
 ---
-**Last updated:** 2026-09-18 20:45:48 UTC
+**Last updated:** 2026-09-18 23:09:55 UTC
